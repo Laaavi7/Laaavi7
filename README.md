@@ -6,7 +6,7 @@ Meu nome é Lavínia
 - Sou estudante do Ensino Médio
 
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 📫
 
 laviconceicao8@gmail.com 
 
